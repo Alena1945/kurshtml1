@@ -180,19 +180,18 @@ textarea.field {
   margin-left: 35px;
 }
 
-.menu-list-item:hover {
-  font-family: "Open Sans", sans-serif;
+.menu-link, .trend-title-link {
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.menu-link:hover {
   text-decoration: underline;
   font-size: 13px;
   color: #ffffff;
   font-weight: 400;
   text-align: center;
-}
-
-.menu-link, .trend-title-link {
-  color: #ffffff;
-  text-decoration: none;
-  text-transform: uppercase;
 }
 
 .headline-wrapper {
