@@ -120,6 +120,7 @@ textarea.field {
     min-width: 100%;
     max-width: 100%;
     padding: 17px;
+    max-height: 100px;
 }
   
 .feedback-button {
@@ -498,8 +499,13 @@ textarea.field {
     margin-bottom: 6px;
     border: 3px solid #eeeeee;
     padding: 4px 12px;
+
     font-size: 12px;
     font-weight: bold;
+}
+
+.teg-list-item:hover {
+    font-size: 13px;
 }
 
 .teg-link {
@@ -519,6 +525,10 @@ textarea.field {
     border-color: transparent transparent #eeeeee transparent;
     font-size: 14px;
     font-weight: bold;
+}
+
+.topics-list-item:hover {
+    font-size: 15px;
 }
 
 .topics-link {
