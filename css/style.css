@@ -505,7 +505,7 @@ textarea.field {
 }
 
 .teg-list-item:hover {
-    font-size: 13px;
+    border: 3px solid #b59f5b;
 }
 
 .teg-link {
@@ -528,7 +528,6 @@ textarea.field {
 }
 
 .topics-link:hover {
-    font-size: 15px;
     color: #b59f5b;
 }
 
