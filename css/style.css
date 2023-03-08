@@ -527,8 +527,9 @@ textarea.field {
     font-weight: bold;
 }
 
-.topics-list-item:hover {
+.topics-link:hover {
     font-size: 15px;
+    color: #b59f5b;
 }
 
 .topics-link {
